@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>600</height>
+    <height>607</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,8 +20,34 @@
       <x>0</x>
       <y>0</y>
       <width>801</width>
-      <height>581</height>
+      <height>541</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="change_button">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>550</y>
+      <width>301</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Изменить</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="refresh">
+    <property name="geometry">
+     <rect>
+      <x>470</x>
+      <y>550</y>
+      <width>281</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Обновить</string>
     </property>
    </widget>
   </widget>
